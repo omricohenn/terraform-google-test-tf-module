@@ -10,6 +10,6 @@ terraform {
 resource "null_resource" "test" {
   count = 1
   triggers = {
-    test0 = "dummydummy2dummydummydummydummydummydummydummydummydummydummydummydummydummydummydummydummydummydummydummy"
+    test0 = "dummydummy26dummydummydummydummydummydummydummydummydummydummydummydummydummydummydummydummydummydummydummy"
   }
 }
